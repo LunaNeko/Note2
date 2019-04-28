@@ -52,3 +52,9 @@ git pull --rebase origin master
 
 git push -u origin master
 
+1.git status
+2.git add --all
+3.git commit -m '提交信息' (注：“提交信息”里面换成你需要，如“first commit”)
+4.git push -u origin master
+5.输入邮箱
+6.输入密码
